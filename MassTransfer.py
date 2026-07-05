@@ -21,7 +21,7 @@ st.title("💧 Simulador de Transferencia de Momentum")
 st.markdown("### *Materia: Balances de Momentum, Calor y Masa (5to Semestre)*")
 st.write("Bienvenido al módulo de validación hidrodinámica. Resuelve tu problema analítico, introduce tus resultados y compáralos con el modelo numérico.")
 
----
+
 
 # --- INTERFAZ LATERAL: LOG-IN DE ALUMNO ---
 st.sidebar.header("🔑 Acceso de Estudiante")
